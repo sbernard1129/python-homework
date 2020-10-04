@@ -1,5 +1,5 @@
 # Unit 2
-![Screenshot](./revenue-per-lead/jpg)
+![Screenshot](./Resources/revenue-per-lead.jpg)
 
 Week 2 U-Penn FinTech Bootcamp assignment
 
